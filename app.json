@@ -11,7 +11,7 @@
         "Bot"
     ],
     "website": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
-    "repository": "https://github.com/Aadhi000/Auto-Request-Accept-Bot",
+    "repository": "https://github.com/Shubhamdeb89/Auto-Request-Accept-Bot",
     "success_url": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
     "env": {
         "API_ID": {
@@ -47,7 +47,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "Eco"
         }
     }
 }
